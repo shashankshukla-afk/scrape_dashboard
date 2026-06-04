@@ -1,0 +1,501 @@
+business_name,category,city,address,phone,source
+Tunday Kababi 1,Fast Food,Lucknow,"8, Aminabad",9874944909,Justdial
+Bajpai Kachori 2,South Indian,Lucknow,"64, Indira Nagar",9839426004,Justdial
+Chowdhary Lassi 3,Street Food,Lucknow,"15, Aliganj",9879920523,Justdial
+Zaheer Ahmed Biryani 4,South Indian,Lucknow,"75, Aminabad",9833906265,Justdial
+Moti Mahal 5,South Indian,Lucknow,"99, Chowk",9880499532,Justdial
+Tunday Kababi 6,Chinese,Lucknow,"88, Aminabad",9825599254,Justdial
+Idris Biryani 7,Mughlai,Lucknow,"16, Hazratganj",9888356640,Justdial
+Idris Biryani 8,Chinese,Lucknow,"69, Chowk",9862121045,Justdial
+Moti Mahal 9,South Indian,Lucknow,"87, Aliganj",9822401127,Justdial
+Sharma Ji Ka Dhaba 10,Street Food,Lucknow,"31, Aliganj",9892039958,Justdial
+Wahid Biryani 11,Street Food,Lucknow,"72, Hazratganj",9833471722,Justdial
+Moti Mahal 12,Mughlai,Lucknow,"40, Hazratganj",9830862269,Justdial
+Bajpai Kachori 13,Fast Food,Lucknow,"95, Indira Nagar",9847178537,Justdial
+Wahid Biryani 14,Street Food,Lucknow,"31, Aliganj",9824491632,Justdial
+Tunday Kababi 15,North Indian,Lucknow,"57, Chowk",9827758550,Justdial
+Peter Cafe 16,Mughlai,Lucknow,"10, Aminabad",9849075266,Justdial
+Idris Biryani 17,Mughlai,Lucknow,"43, Chowk",9848874930,Justdial
+Tunday Kababi 18,Mughlai,Lucknow,"43, Hazratganj",9894887889,Justdial
+Dastarkhan 19,North Indian,Lucknow,"46, Hazratganj",9859306415,Justdial
+Royal Cafe 20,Street Food,Lucknow,"22, Aliganj",9810821165,Justdial
+Dastarkhan 21,Street Food,Lucknow,"13, Aminabad",9813415192,Justdial
+Dastarkhan 22,Chinese,Lucknow,"33, Chowk",9859189693,Justdial
+Sharma Ji Ka Dhaba 23,North Indian,Lucknow,"24, Aminabad",9869181001,Justdial
+Aryan Restaurant 24,Fast Food,Lucknow,"16, Chowk",9814279289,Justdial
+Chowdhary Lassi 25,Chinese,Lucknow,"81, Chowk",9822164209,Justdial
+Idris Biryani 26,Chinese,Lucknow,"67, Aliganj",9838153074,Justdial
+Idris Biryani 27,Fast Food,Lucknow,"97, Aminabad",9872543160,Justdial
+Chowdhary Lassi 28,Fast Food,Lucknow,"89, Chowk",9817491430,Justdial
+Dastarkhan 29,South Indian,Lucknow,"19, Indira Nagar",9869065446,Justdial
+Idris Biryani 30,Street Food,Lucknow,"12, Gomti Nagar",9880430077,Justdial
+Aryan Restaurant 31,North Indian,Lucknow,"57, Chowk",9840887827,Justdial
+Royal Cafe 32,Street Food,Lucknow,"88, Gomti Nagar",9813547107,Justdial
+Moti Mahal 33,Street Food,Lucknow,"23, Aliganj",9825612763,Justdial
+Wahid Biryani 34,South Indian,Lucknow,"72, Hazratganj",9869132060,Justdial
+Tunday Kababi 35,North Indian,Lucknow,"5, Gomti Nagar",9834294792,Justdial
+Idris Biryani 36,North Indian,Lucknow,"55, Gomti Nagar",9830973819,Justdial
+Peter Cafe 37,Chinese,Lucknow,"40, Gomti Nagar",9845400906,Justdial
+Wahid Biryani 38,Street Food,Lucknow,"64, Aminabad",9892133424,Justdial
+Idris Biryani 39,South Indian,Lucknow,"16, Hazratganj",9826456555,Justdial
+Wahid Biryani 40,South Indian,Lucknow,"99, Hazratganj",9899801246,Justdial
+Peter Cafe 41,Chinese,Lucknow,"27, Gomti Nagar",9863554075,Justdial
+Wahid Biryani 42,Street Food,Lucknow,"61, Chowk",9879787663,Justdial
+Zaheer Ahmed Biryani 43,North Indian,Lucknow,"84, Aliganj",9849572684,Justdial
+Idris Biryani 44,Mughlai,Lucknow,"15, Indira Nagar",9898057314,Justdial
+Dastarkhan 45,North Indian,Lucknow,"63, Indira Nagar",9891721636,Justdial
+Zaheer Ahmed Biryani 46,Mughlai,Lucknow,"33, Gomti Nagar",9848298530,Justdial
+Dastarkhan 47,North Indian,Lucknow,"61, Aminabad",9825560005,Justdial
+Sharma Ji Ka Dhaba 48,Street Food,Lucknow,"14, Hazratganj",9890185633,Justdial
+Idris Biryani 49,Street Food,Lucknow,"95, Aminabad",9854680069,Justdial
+Dastarkhan 50,Mughlai,Lucknow,"1, Hazratganj",9840849274,Justdial
+Idris Biryani 51,Street Food,Lucknow,"59, Aminabad",9836198320,Justdial
+Chowdhary Lassi 52,South Indian,Lucknow,"49, Chowk",9820553270,Justdial
+Chowdhary Lassi 53,North Indian,Lucknow,"29, Hazratganj",9892803419,Justdial
+Royal Cafe 54,Fast Food,Lucknow,"54, Hazratganj",9827787994,Justdial
+Sharma Ji Ka Dhaba 55,Mughlai,Lucknow,"65, Gomti Nagar",9897336561,Justdial
+Wahid Biryani 56,Fast Food,Lucknow,"26, Aliganj",9885651286,Justdial
+Zaheer Ahmed Biryani 57,North Indian,Lucknow,"3, Aliganj",9836119205,Justdial
+Chowdhary Lassi 58,Chinese,Lucknow,"75, Aminabad",9891085817,Justdial
+Tunday Kababi 59,North Indian,Lucknow,"48, Chowk",9864919751,Justdial
+Peter Cafe 60,Street Food,Lucknow,"16, Aliganj",9880437006,Justdial
+Chowdhary Lassi 61,Fast Food,Lucknow,"70, Indira Nagar",9830073886,Justdial
+Sharma Ji Ka Dhaba 62,South Indian,Lucknow,"26, Aliganj",9880042917,Justdial
+Chowdhary Lassi 63,Chinese,Lucknow,"32, Aliganj",9838247405,Justdial
+Chowdhary Lassi 64,South Indian,Lucknow,"59, Gomti Nagar",9828135778,Justdial
+Idris Biryani 65,Chinese,Lucknow,"65, Hazratganj",9830978399,Justdial
+Tunday Kababi 66,North Indian,Lucknow,"7, Aminabad",9867524487,Justdial
+Aryan Restaurant 67,Street Food,Lucknow,"65, Aminabad",9833969305,Justdial
+Tunday Kababi 68,Street Food,Lucknow,"83, Hazratganj",9847885617,Justdial
+Wahid Biryani 69,Street Food,Lucknow,"17, Hazratganj",9847130258,Justdial
+Idris Biryani 70,North Indian,Lucknow,"5, Indira Nagar",9855610226,Justdial
+Wahid Biryani 71,North Indian,Lucknow,"38, Aminabad",9832498891,Justdial
+Royal Cafe 72,Chinese,Lucknow,"70, Gomti Nagar",9877472001,Justdial
+Moti Mahal 73,Chinese,Lucknow,"100, Gomti Nagar",9823297460,Justdial
+Idris Biryani 74,North Indian,Lucknow,"84, Indira Nagar",9886849608,Justdial
+Bajpai Kachori 75,Street Food,Lucknow,"85, Indira Nagar",9812949600,Justdial
+Peter Cafe 76,Street Food,Lucknow,"7, Gomti Nagar",9850567007,Justdial
+Wahid Biryani 77,Mughlai,Lucknow,"66, Aminabad",9889731589,Justdial
+Tunday Kababi 78,Fast Food,Lucknow,"14, Aliganj",9838148350,Justdial
+Bajpai Kachori 79,Street Food,Lucknow,"63, Chowk",9847326801,Justdial
+Moti Mahal 80,Fast Food,Lucknow,"18, Indira Nagar",9863133868,Justdial
+Aryan Restaurant 81,Fast Food,Lucknow,"35, Aminabad",9873113704,Justdial
+Idris Biryani 82,Street Food,Lucknow,"74, Aminabad",9816592065,Justdial
+Royal Cafe 83,Street Food,Lucknow,"92, Hazratganj",9876976540,Justdial
+Peter Cafe 84,Street Food,Lucknow,"17, Indira Nagar",9899914778,Justdial
+Aryan Restaurant 85,Fast Food,Lucknow,"6, Gomti Nagar",9821544286,Justdial
+Wahid Biryani 86,Mughlai,Lucknow,"47, Indira Nagar",9832357794,Justdial
+Peter Cafe 87,Fast Food,Lucknow,"8, Indira Nagar",9829894901,Justdial
+Idris Biryani 88,Fast Food,Lucknow,"90, Aminabad",9866528734,Justdial
+Chowdhary Lassi 89,Fast Food,Lucknow,"7, Aliganj",9894326671,Justdial
+Tunday Kababi 90,North Indian,Lucknow,"88, Chowk",9890659828,Justdial
+Peter Cafe 91,Chinese,Lucknow,"3, Gomti Nagar",9837757316,Justdial
+Peter Cafe 92,Fast Food,Lucknow,"89, Chowk",9874615812,Justdial
+Bajpai Kachori 93,Mughlai,Lucknow,"82, Aminabad",9865834554,Justdial
+Zaheer Ahmed Biryani 94,Chinese,Lucknow,"90, Indira Nagar",9856853670,Justdial
+Aryan Restaurant 95,South Indian,Lucknow,"90, Aliganj",9821787833,Justdial
+Bajpai Kachori 96,South Indian,Lucknow,"71, Indira Nagar",9829612756,Justdial
+Royal Cafe 97,Fast Food,Lucknow,"68, Aminabad",9861217367,Justdial
+Bajpai Kachori 98,Chinese,Lucknow,"27, Aminabad",9882355260,Justdial
+Royal Cafe 99,Mughlai,Lucknow,"85, Indira Nagar",9896961832,Justdial
+Chowdhary Lassi 100,North Indian,Lucknow,"15, Chowk",9830793268,Justdial
+Wahid Biryani 101,South Indian,Lucknow,"27, Chowk",9851985664,Justdial
+Sharma Ji Ka Dhaba 102,Fast Food,Lucknow,"7, Aliganj",9894328437,Justdial
+Moti Mahal 103,Fast Food,Lucknow,"66, Aliganj",9893347597,Justdial
+Tunday Kababi 104,Mughlai,Lucknow,"98, Gomti Nagar",9861960081,Justdial
+Tunday Kababi 105,Fast Food,Lucknow,"36, Aminabad",9835557997,Justdial
+Tunday Kababi 106,North Indian,Lucknow,"18, Indira Nagar",9881147472,Justdial
+Sharma Ji Ka Dhaba 107,North Indian,Lucknow,"49, Hazratganj",9873090893,Justdial
+Bajpai Kachori 108,Chinese,Lucknow,"68, Hazratganj",9865788359,Justdial
+Wahid Biryani 109,North Indian,Lucknow,"94, Aliganj",9823808920,Justdial
+Wahid Biryani 110,Fast Food,Lucknow,"22, Chowk",9830554283,Justdial
+Wahid Biryani 111,North Indian,Lucknow,"50, Aliganj",9889716565,Justdial
+Zaheer Ahmed Biryani 112,South Indian,Lucknow,"44, Hazratganj",9896280762,Justdial
+Idris Biryani 113,Fast Food,Lucknow,"73, Indira Nagar",9811043872,Justdial
+Moti Mahal 114,Street Food,Lucknow,"33, Aliganj",9820453113,Justdial
+Aryan Restaurant 115,Chinese,Lucknow,"29, Aliganj",9813696543,Justdial
+Zaheer Ahmed Biryani 116,North Indian,Lucknow,"41, Aliganj",9825968914,Justdial
+Zaheer Ahmed Biryani 117,Mughlai,Lucknow,"29, Indira Nagar",9821394806,Justdial
+Chowdhary Lassi 118,Mughlai,Lucknow,"43, Hazratganj",9832445125,Justdial
+Bajpai Kachori 119,Mughlai,Lucknow,"83, Aminabad",9859984680,Justdial
+Sharma Ji Ka Dhaba 120,Street Food,Lucknow,"85, Aminabad",9826590746,Justdial
+Moti Mahal 121,Chinese,Lucknow,"25, Indira Nagar",9855269550,Justdial
+Chowdhary Lassi 122,South Indian,Lucknow,"32, Chowk",9872278804,Justdial
+Wahid Biryani 123,Chinese,Lucknow,"36, Hazratganj",9844100467,Justdial
+Moti Mahal 124,Mughlai,Lucknow,"15, Hazratganj",9836262856,Justdial
+Bajpai Kachori 125,Fast Food,Lucknow,"29, Gomti Nagar",9884796371,Justdial
+Moti Mahal 126,Street Food,Lucknow,"19, Aminabad",9857116456,Justdial
+Zaheer Ahmed Biryani 127,Fast Food,Lucknow,"100, Chowk",9827137281,Justdial
+Sharma Ji Ka Dhaba 128,Mughlai,Lucknow,"83, Gomti Nagar",9868077450,Justdial
+Sharma Ji Ka Dhaba 129,North Indian,Lucknow,"20, Aliganj",9820145056,Justdial
+Aryan Restaurant 130,North Indian,Lucknow,"89, Indira Nagar",9896982288,Justdial
+Moti Mahal 131,Mughlai,Lucknow,"36, Aminabad",9821011553,Justdial
+Sharma Ji Ka Dhaba 132,Mughlai,Lucknow,"50, Indira Nagar",9867105665,Justdial
+Wahid Biryani 133,South Indian,Lucknow,"8, Chowk",9820525747,Justdial
+Moti Mahal 134,South Indian,Lucknow,"67, Gomti Nagar",9880703570,Justdial
+Idris Biryani 135,Fast Food,Lucknow,"13, Indira Nagar",9890138762,Justdial
+Chowdhary Lassi 136,South Indian,Lucknow,"18, Chowk",9878721404,Justdial
+Zaheer Ahmed Biryani 137,Fast Food,Lucknow,"48, Gomti Nagar",9855358467,Justdial
+Wahid Biryani 138,Fast Food,Lucknow,"27, Gomti Nagar",9843700868,Justdial
+Bajpai Kachori 139,Street Food,Lucknow,"62, Aliganj",9835574463,Justdial
+Royal Cafe 140,Fast Food,Lucknow,"89, Gomti Nagar",9824821383,Justdial
+Wahid Biryani 141,Mughlai,Lucknow,"28, Gomti Nagar",9827860095,Justdial
+Wahid Biryani 142,Fast Food,Lucknow,"16, Indira Nagar",9854685845,Justdial
+Wahid Biryani 143,Chinese,Lucknow,"98, Gomti Nagar",9819610926,Justdial
+Peter Cafe 144,Chinese,Lucknow,"84, Indira Nagar",9829139212,Justdial
+Sharma Ji Ka Dhaba 145,South Indian,Lucknow,"94, Hazratganj",9826764070,Justdial
+Idris Biryani 146,Street Food,Lucknow,"88, Hazratganj",9858936604,Justdial
+Chowdhary Lassi 147,Street Food,Lucknow,"12, Gomti Nagar",9840795084,Justdial
+Tunday Kababi 148,Street Food,Lucknow,"1, Aminabad",9886457842,Justdial
+Chowdhary Lassi 149,Street Food,Lucknow,"8, Gomti Nagar",9834424184,Justdial
+Peter Cafe 150,South Indian,Lucknow,"55, Hazratganj",9896082666,Justdial
+Dastarkhan 151,Mughlai,Lucknow,"16, Indira Nagar",9868135570,Justdial
+Chowdhary Lassi 152,Fast Food,Lucknow,"76, Aliganj",9845257469,Justdial
+Idris Biryani 153,Street Food,Lucknow,"70, Aminabad",9848222794,Justdial
+Peter Cafe 154,South Indian,Lucknow,"60, Aliganj",9835007107,Justdial
+Aryan Restaurant 155,Street Food,Lucknow,"30, Indira Nagar",9851140013,Justdial
+Chowdhary Lassi 156,Mughlai,Lucknow,"55, Indira Nagar",9829402684,Justdial
+Bajpai Kachori 157,Chinese,Lucknow,"56, Chowk",9842086520,Justdial
+Chowdhary Lassi 158,South Indian,Lucknow,"53, Indira Nagar",9819258332,Justdial
+Zaheer Ahmed Biryani 159,Chinese,Lucknow,"17, Indira Nagar",9861924534,Justdial
+Tunday Kababi 160,Chinese,Lucknow,"39, Aliganj",9891179382,Justdial
+Peter Cafe 161,South Indian,Lucknow,"50, Indira Nagar",9821120442,Justdial
+Wahid Biryani 162,Chinese,Lucknow,"78, Aliganj",9843898356,Justdial
+Chowdhary Lassi 163,Fast Food,Lucknow,"65, Indira Nagar",9876055605,Justdial
+Royal Cafe 164,Mughlai,Lucknow,"54, Gomti Nagar",9851929500,Justdial
+Sharma Ji Ka Dhaba 165,Fast Food,Lucknow,"57, Aliganj",9852013047,Justdial
+Bajpai Kachori 166,South Indian,Lucknow,"30, Hazratganj",9821997164,Justdial
+Bajpai Kachori 167,Street Food,Lucknow,"32, Hazratganj",9893915116,Justdial
+Bajpai Kachori 168,Fast Food,Lucknow,"52, Chowk",9846422496,Justdial
+Sharma Ji Ka Dhaba 169,Street Food,Lucknow,"50, Aminabad",9819897915,Justdial
+Aryan Restaurant 170,North Indian,Lucknow,"15, Aminabad",9853527679,Justdial
+Tunday Kababi 171,Mughlai,Lucknow,"57, Chowk",9857923487,Justdial
+Wahid Biryani 172,Street Food,Lucknow,"52, Hazratganj",9824036778,Justdial
+Bajpai Kachori 173,South Indian,Lucknow,"2, Aliganj",9878946369,Justdial
+Peter Cafe 174,North Indian,Lucknow,"6, Hazratganj",9827541385,Justdial
+Zaheer Ahmed Biryani 175,North Indian,Lucknow,"87, Chowk",9895709655,Justdial
+Idris Biryani 176,North Indian,Lucknow,"81, Indira Nagar",9896244729,Justdial
+Bajpai Kachori 177,Street Food,Lucknow,"49, Gomti Nagar",9874704191,Justdial
+Moti Mahal 178,North Indian,Lucknow,"48, Gomti Nagar",9851637176,Justdial
+Bajpai Kachori 179,North Indian,Lucknow,"23, Hazratganj",9834565367,Justdial
+Dastarkhan 180,Mughlai,Lucknow,"19, Chowk",9855910478,Justdial
+Wahid Biryani 181,Mughlai,Lucknow,"46, Chowk",9842381484,Justdial
+Chowdhary Lassi 182,Mughlai,Lucknow,"12, Chowk",9811224976,Justdial
+Sharma Ji Ka Dhaba 183,Street Food,Lucknow,"8, Aliganj",9868054481,Justdial
+Idris Biryani 184,Fast Food,Lucknow,"15, Aminabad",9845715924,Justdial
+Dastarkhan 185,South Indian,Lucknow,"19, Gomti Nagar",9884919875,Justdial
+Royal Cafe 186,Fast Food,Lucknow,"87, Gomti Nagar",9829454073,Justdial
+Bajpai Kachori 187,Chinese,Lucknow,"13, Aliganj",9842251864,Justdial
+Wahid Biryani 188,Mughlai,Lucknow,"52, Hazratganj",9850803544,Justdial
+Dastarkhan 189,Mughlai,Lucknow,"72, Gomti Nagar",9847138559,Justdial
+Tunday Kababi 190,South Indian,Lucknow,"78, Aliganj",9817104860,Justdial
+Tunday Kababi 191,Chinese,Lucknow,"75, Chowk",9812957346,Justdial
+Moti Mahal 192,Mughlai,Lucknow,"39, Hazratganj",9867937741,Justdial
+Bajpai Kachori 193,Chinese,Lucknow,"7, Gomti Nagar",9876673957,Justdial
+Aryan Restaurant 194,Mughlai,Lucknow,"11, Gomti Nagar",9885575232,Justdial
+Tunday Kababi 195,Street Food,Lucknow,"18, Gomti Nagar",9861247082,Justdial
+Tunday Kababi 196,South Indian,Lucknow,"50, Gomti Nagar",9864830238,Justdial
+Royal Cafe 197,North Indian,Lucknow,"19, Aliganj",9873649429,Justdial
+Peter Cafe 198,Mughlai,Lucknow,"28, Aliganj",9813983833,Justdial
+Peter Cafe 199,South Indian,Lucknow,"53, Gomti Nagar",9843049405,Justdial
+Sharma Ji Ka Dhaba 200,Chinese,Lucknow,"29, Gomti Nagar",9817798454,Justdial
+Zaheer Ahmed Biryani 201,South Indian,Lucknow,"16, Hazratganj",9822408316,Justdial
+Wahid Biryani 202,North Indian,Lucknow,"98, Indira Nagar",9835931833,Justdial
+Aryan Restaurant 203,Chinese,Lucknow,"44, Chowk",9854505818,Justdial
+Bajpai Kachori 204,Chinese,Lucknow,"39, Aminabad",9859536973,Justdial
+Sharma Ji Ka Dhaba 205,Fast Food,Lucknow,"68, Aminabad",9870025008,Justdial
+Wahid Biryani 206,Mughlai,Lucknow,"25, Chowk",9844746747,Justdial
+Chowdhary Lassi 207,Chinese,Lucknow,"42, Gomti Nagar",9835596166,Justdial
+Idris Biryani 208,Fast Food,Lucknow,"94, Indira Nagar",9832728434,Justdial
+Sharma Ji Ka Dhaba 209,Street Food,Lucknow,"24, Aliganj",9892449419,Justdial
+Moti Mahal 210,Chinese,Lucknow,"52, Hazratganj",9811523704,Justdial
+Zaheer Ahmed Biryani 211,Mughlai,Lucknow,"80, Indira Nagar",9846468166,Justdial
+Royal Cafe 212,North Indian,Lucknow,"82, Aliganj",9831610083,Justdial
+Moti Mahal 213,Mughlai,Lucknow,"8, Aminabad",9866386016,Justdial
+Peter Cafe 214,Chinese,Lucknow,"93, Hazratganj",9872303403,Justdial
+Peter Cafe 215,Chinese,Lucknow,"33, Aminabad",9877825808,Justdial
+Royal Cafe 216,Street Food,Lucknow,"22, Aliganj",9828847892,Justdial
+Zaheer Ahmed Biryani 217,Mughlai,Lucknow,"13, Gomti Nagar",9841834595,Justdial
+Peter Cafe 218,South Indian,Lucknow,"56, Aliganj",9814433266,Justdial
+Peter Cafe 219,South Indian,Lucknow,"71, Aminabad",9887230471,Justdial
+Aryan Restaurant 220,South Indian,Lucknow,"56, Aminabad",9867890065,Justdial
+Sharma Ji Ka Dhaba 221,Fast Food,Lucknow,"22, Aliganj",9816719601,Justdial
+Zaheer Ahmed Biryani 222,Fast Food,Lucknow,"18, Aliganj",9838065430,Justdial
+Peter Cafe 223,Fast Food,Lucknow,"16, Chowk",9897439598,Justdial
+Bajpai Kachori 224,South Indian,Lucknow,"76, Indira Nagar",9882461216,Justdial
+Aryan Restaurant 225,Street Food,Lucknow,"94, Gomti Nagar",9864734497,Justdial
+Idris Biryani 226,South Indian,Lucknow,"98, Hazratganj",9831424520,Justdial
+Dastarkhan 227,Fast Food,Lucknow,"85, Aminabad",9838881034,Justdial
+Sharma Ji Ka Dhaba 228,Mughlai,Lucknow,"13, Hazratganj",9892536294,Justdial
+Sharma Ji Ka Dhaba 229,Fast Food,Lucknow,"18, Aliganj",9822387609,Justdial
+Aryan Restaurant 230,Chinese,Lucknow,"50, Indira Nagar",9885264549,Justdial
+Zaheer Ahmed Biryani 231,Fast Food,Lucknow,"70, Gomti Nagar",9838455712,Justdial
+Wahid Biryani 232,Mughlai,Lucknow,"86, Chowk",9839663647,Justdial
+Zaheer Ahmed Biryani 233,North Indian,Lucknow,"81, Hazratganj",9810054411,Justdial
+Peter Cafe 234,South Indian,Lucknow,"24, Hazratganj",9841772528,Justdial
+Royal Cafe 235,Street Food,Lucknow,"96, Hazratganj",9872692020,Justdial
+Peter Cafe 236,Street Food,Lucknow,"86, Indira Nagar",9818269208,Justdial
+Sharma Ji Ka Dhaba 237,Fast Food,Lucknow,"24, Gomti Nagar",9895719716,Justdial
+Bajpai Kachori 238,Fast Food,Lucknow,"75, Indira Nagar",9862868003,Justdial
+Moti Mahal 239,Mughlai,Lucknow,"81, Aminabad",9853465064,Justdial
+Aryan Restaurant 240,South Indian,Lucknow,"25, Aminabad",9890177219,Justdial
+Zaheer Ahmed Biryani 241,Fast Food,Lucknow,"36, Aminabad",9880951469,Justdial
+Wahid Biryani 242,Street Food,Lucknow,"8, Aminabad",9896325373,Justdial
+Zaheer Ahmed Biryani 243,South Indian,Lucknow,"37, Aminabad",9873469771,Justdial
+Moti Mahal 244,Fast Food,Lucknow,"54, Gomti Nagar",9881175066,Justdial
+Dastarkhan 245,Fast Food,Lucknow,"71, Indira Nagar",9819557287,Justdial
+Peter Cafe 246,South Indian,Lucknow,"59, Indira Nagar",9837186771,Justdial
+Idris Biryani 247,South Indian,Lucknow,"52, Aminabad",9845704474,Justdial
+Wahid Biryani 248,Chinese,Lucknow,"36, Hazratganj",9850006786,Justdial
+Peter Cafe 249,North Indian,Lucknow,"97, Aminabad",9883124228,Justdial
+Idris Biryani 250,South Indian,Lucknow,"67, Aliganj",9899679013,Justdial
+Moti Mahal 251,Mughlai,Lucknow,"75, Hazratganj",9881891327,Justdial
+Bajpai Kachori 252,Fast Food,Lucknow,"59, Aminabad",9880890833,Justdial
+Zaheer Ahmed Biryani 253,Fast Food,Lucknow,"73, Indira Nagar",9817148917,Justdial
+Moti Mahal 254,Street Food,Lucknow,"8, Indira Nagar",9869871506,Justdial
+Idris Biryani 255,Chinese,Lucknow,"60, Aminabad",9846999353,Justdial
+Aryan Restaurant 256,Mughlai,Lucknow,"53, Aminabad",9826912647,Justdial
+Zaheer Ahmed Biryani 257,Street Food,Lucknow,"22, Aliganj",9849148008,Justdial
+Zaheer Ahmed Biryani 258,Chinese,Lucknow,"96, Gomti Nagar",9859514047,Justdial
+Sharma Ji Ka Dhaba 259,Chinese,Lucknow,"52, Gomti Nagar",9847623691,Justdial
+Zaheer Ahmed Biryani 260,Chinese,Lucknow,"75, Chowk",9847841056,Justdial
+Dastarkhan 261,Mughlai,Lucknow,"52, Aminabad",9842140395,Justdial
+Chowdhary Lassi 262,Mughlai,Lucknow,"94, Aliganj",9861170004,Justdial
+Bajpai Kachori 263,Mughlai,Lucknow,"34, Indira Nagar",9889432511,Justdial
+Moti Mahal 264,Street Food,Lucknow,"25, Aliganj",9819346179,Justdial
+Aryan Restaurant 265,Chinese,Lucknow,"84, Chowk",9885801089,Justdial
+Wahid Biryani 266,South Indian,Lucknow,"42, Chowk",9854472045,Justdial
+Tunday Kababi 267,Street Food,Lucknow,"8, Aminabad",9858832573,Justdial
+Wahid Biryani 268,North Indian,Lucknow,"50, Indira Nagar",9848609162,Justdial
+Moti Mahal 269,Mughlai,Lucknow,"43, Aliganj",9825341911,Justdial
+Royal Cafe 270,South Indian,Lucknow,"37, Indira Nagar",9834013664,Justdial
+Idris Biryani 271,Chinese,Lucknow,"29, Aminabad",9890404098,Justdial
+Zaheer Ahmed Biryani 272,Fast Food,Lucknow,"90, Aliganj",9867503891,Justdial
+Chowdhary Lassi 273,Street Food,Lucknow,"44, Aminabad",9836870955,Justdial
+Bajpai Kachori 274,Street Food,Lucknow,"40, Aminabad",9816777264,Justdial
+Tunday Kababi 275,Mughlai,Lucknow,"80, Chowk",9836080424,Justdial
+Idris Biryani 276,Mughlai,Lucknow,"80, Indira Nagar",9861537319,Justdial
+Dastarkhan 277,Chinese,Lucknow,"57, Chowk",9879109070,Justdial
+Idris Biryani 278,North Indian,Lucknow,"31, Chowk",9813712258,Justdial
+Wahid Biryani 279,Street Food,Lucknow,"55, Chowk",9856679401,Justdial
+Chowdhary Lassi 280,Chinese,Lucknow,"28, Aliganj",9863937701,Justdial
+Zaheer Ahmed Biryani 281,Fast Food,Lucknow,"63, Gomti Nagar",9856179713,Justdial
+Sharma Ji Ka Dhaba 282,Chinese,Lucknow,"77, Gomti Nagar",9838435367,Justdial
+Bajpai Kachori 283,Mughlai,Lucknow,"37, Chowk",9849183119,Justdial
+Aryan Restaurant 284,Street Food,Lucknow,"72, Indira Nagar",9858283310,Justdial
+Bajpai Kachori 285,Street Food,Lucknow,"43, Hazratganj",9812448361,Justdial
+Sharma Ji Ka Dhaba 286,South Indian,Lucknow,"37, Chowk",9884305996,Justdial
+Moti Mahal 287,North Indian,Lucknow,"25, Indira Nagar",9864366398,Justdial
+Bajpai Kachori 288,Mughlai,Lucknow,"49, Chowk",9872362076,Justdial
+Tunday Kababi 289,South Indian,Lucknow,"62, Hazratganj",9817565425,Justdial
+Chowdhary Lassi 290,North Indian,Lucknow,"100, Indira Nagar",9834618283,Justdial
+Tunday Kababi 291,North Indian,Lucknow,"23, Chowk",9840518785,Justdial
+Idris Biryani 292,Chinese,Lucknow,"13, Aminabad",9892286005,Justdial
+Moti Mahal 293,Fast Food,Lucknow,"49, Indira Nagar",9825808829,Justdial
+Wahid Biryani 294,South Indian,Lucknow,"24, Indira Nagar",9861622980,Justdial
+Sharma Ji Ka Dhaba 295,North Indian,Lucknow,"78, Indira Nagar",9872365532,Justdial
+Idris Biryani 296,North Indian,Lucknow,"86, Hazratganj",9873182386,Justdial
+Sharma Ji Ka Dhaba 297,South Indian,Lucknow,"27, Aminabad",9845986911,Justdial
+Chowdhary Lassi 298,North Indian,Lucknow,"32, Hazratganj",9875048082,Justdial
+Bajpai Kachori 299,Street Food,Lucknow,"22, Aminabad",9847639513,Justdial
+Sharma Ji Ka Dhaba 300,Mughlai,Lucknow,"98, Indira Nagar",9837712099,Justdial
+Royal Cafe 301,South Indian,Lucknow,"24, Chowk",9833672971,Justdial
+Peter Cafe 302,Fast Food,Lucknow,"77, Chowk",9818711787,Justdial
+Aryan Restaurant 303,Chinese,Lucknow,"96, Hazratganj",9824453306,Justdial
+Zaheer Ahmed Biryani 304,South Indian,Lucknow,"19, Aminabad",9820217693,Justdial
+Idris Biryani 305,Fast Food,Lucknow,"81, Hazratganj",9821153749,Justdial
+Idris Biryani 306,South Indian,Lucknow,"78, Aminabad",9822447681,Justdial
+Zaheer Ahmed Biryani 307,North Indian,Lucknow,"43, Hazratganj",9883298940,Justdial
+Tunday Kababi 308,Fast Food,Lucknow,"43, Aliganj",9887982324,Justdial
+Peter Cafe 309,Street Food,Lucknow,"61, Aliganj",9838420873,Justdial
+Wahid Biryani 310,South Indian,Lucknow,"85, Indira Nagar",9830282673,Justdial
+Wahid Biryani 311,Chinese,Lucknow,"25, Hazratganj",9833894332,Justdial
+Wahid Biryani 312,Mughlai,Lucknow,"45, Chowk",9826363373,Justdial
+Wahid Biryani 313,Mughlai,Lucknow,"64, Gomti Nagar",9867286643,Justdial
+Bajpai Kachori 314,Street Food,Lucknow,"59, Gomti Nagar",9874345912,Justdial
+Dastarkhan 315,South Indian,Lucknow,"75, Aminabad",9868686727,Justdial
+Zaheer Ahmed Biryani 316,North Indian,Lucknow,"76, Hazratganj",9831212403,Justdial
+Tunday Kababi 317,Chinese,Lucknow,"97, Aminabad",9815328001,Justdial
+Moti Mahal 318,Mughlai,Lucknow,"85, Hazratganj",9813976052,Justdial
+Dastarkhan 319,Street Food,Lucknow,"9, Aliganj",9819488778,Justdial
+Idris Biryani 320,Street Food,Lucknow,"52, Indira Nagar",9861777357,Justdial
+Peter Cafe 321,Chinese,Lucknow,"29, Aliganj",9889209106,Justdial
+Idris Biryani 322,North Indian,Lucknow,"74, Indira Nagar",9858314597,Justdial
+Dastarkhan 323,North Indian,Lucknow,"70, Hazratganj",9871530297,Justdial
+Peter Cafe 324,Street Food,Lucknow,"12, Hazratganj",9834572770,Justdial
+Moti Mahal 325,South Indian,Lucknow,"76, Aliganj",9857609205,Justdial
+Tunday Kababi 326,Chinese,Lucknow,"16, Indira Nagar",9877035963,Justdial
+Wahid Biryani 327,Street Food,Lucknow,"75, Hazratganj",9818639955,Justdial
+Chowdhary Lassi 328,Street Food,Lucknow,"33, Chowk",9876678012,Justdial
+Wahid Biryani 329,North Indian,Lucknow,"63, Aminabad",9835962528,Justdial
+Aryan Restaurant 330,Fast Food,Lucknow,"18, Chowk",9831089745,Justdial
+Royal Cafe 331,Fast Food,Lucknow,"40, Gomti Nagar",9844797660,Justdial
+Royal Cafe 332,North Indian,Lucknow,"87, Chowk",9863277200,Justdial
+Tunday Kababi 333,Mughlai,Lucknow,"22, Indira Nagar",9837848384,Justdial
+Wahid Biryani 334,Mughlai,Lucknow,"25, Gomti Nagar",9826752879,Justdial
+Peter Cafe 335,North Indian,Lucknow,"46, Aliganj",9812338360,Justdial
+Zaheer Ahmed Biryani 336,North Indian,Lucknow,"66, Aliganj",9856042262,Justdial
+Zaheer Ahmed Biryani 337,North Indian,Lucknow,"96, Aminabad",9838712981,Justdial
+Bajpai Kachori 338,South Indian,Lucknow,"24, Indira Nagar",9815762626,Justdial
+Moti Mahal 339,Fast Food,Lucknow,"4, Aliganj",9895128437,Justdial
+Tunday Kababi 340,Chinese,Lucknow,"80, Hazratganj",9862699249,Justdial
+Sharma Ji Ka Dhaba 341,Street Food,Lucknow,"62, Aliganj",9879734786,Justdial
+Bajpai Kachori 342,Fast Food,Lucknow,"32, Aliganj",9813585584,Justdial
+Royal Cafe 343,South Indian,Lucknow,"55, Gomti Nagar",9873568423,Justdial
+Moti Mahal 344,Street Food,Lucknow,"32, Aliganj",9861457556,Justdial
+Royal Cafe 345,Fast Food,Lucknow,"62, Chowk",9875266618,Justdial
+Moti Mahal 346,Street Food,Lucknow,"97, Aminabad",9870309253,Justdial
+Aryan Restaurant 347,Fast Food,Lucknow,"98, Chowk",9846668135,Justdial
+Dastarkhan 348,Fast Food,Lucknow,"82, Aliganj",9846271701,Justdial
+Chowdhary Lassi 349,North Indian,Lucknow,"41, Hazratganj",9891094040,Justdial
+Tunday Kababi 350,Street Food,Lucknow,"68, Aminabad",9836211441,Justdial
+Peter Cafe 351,Mughlai,Lucknow,"96, Chowk",9834643230,Justdial
+Royal Cafe 352,South Indian,Lucknow,"68, Gomti Nagar",9877579931,Justdial
+Aryan Restaurant 353,South Indian,Lucknow,"24, Indira Nagar",9850320251,Justdial
+Bajpai Kachori 354,South Indian,Lucknow,"47, Indira Nagar",9875450032,Justdial
+Aryan Restaurant 355,Fast Food,Lucknow,"74, Gomti Nagar",9885253995,Justdial
+Sharma Ji Ka Dhaba 356,Street Food,Lucknow,"17, Aminabad",9825554005,Justdial
+Wahid Biryani 357,Mughlai,Lucknow,"1, Indira Nagar",9812445466,Justdial
+Peter Cafe 358,Chinese,Lucknow,"59, Aliganj",9872407788,Justdial
+Zaheer Ahmed Biryani 359,South Indian,Lucknow,"21, Chowk",9838686421,Justdial
+Bajpai Kachori 360,South Indian,Lucknow,"10, Aminabad",9855906292,Justdial
+Sharma Ji Ka Dhaba 361,Chinese,Lucknow,"26, Aliganj",9812603748,Justdial
+Sharma Ji Ka Dhaba 362,South Indian,Lucknow,"70, Indira Nagar",9814376013,Justdial
+Zaheer Ahmed Biryani 363,South Indian,Lucknow,"69, Gomti Nagar",9841510740,Justdial
+Tunday Kababi 364,North Indian,Lucknow,"92, Aliganj",9861869439,Justdial
+Royal Cafe 365,North Indian,Lucknow,"54, Chowk",9837461030,Justdial
+Peter Cafe 366,Mughlai,Lucknow,"30, Chowk",9829458765,Justdial
+Bajpai Kachori 367,Street Food,Lucknow,"92, Chowk",9845319108,Justdial
+Wahid Biryani 368,North Indian,Lucknow,"26, Gomti Nagar",9852119872,Justdial
+Zaheer Ahmed Biryani 369,Fast Food,Lucknow,"8, Aliganj",9811893352,Justdial
+Idris Biryani 370,Chinese,Lucknow,"69, Indira Nagar",9869556274,Justdial
+Tunday Kababi 371,Mughlai,Lucknow,"42, Aliganj",9853465557,Justdial
+Zaheer Ahmed Biryani 372,Street Food,Lucknow,"51, Aminabad",9896657386,Justdial
+Royal Cafe 373,Street Food,Lucknow,"49, Hazratganj",9846167673,Justdial
+Idris Biryani 374,North Indian,Lucknow,"77, Indira Nagar",9886587141,Justdial
+Tunday Kababi 375,South Indian,Lucknow,"96, Aliganj",9876441410,Justdial
+Tunday Kababi 376,Chinese,Lucknow,"88, Hazratganj",9841845956,Justdial
+Aryan Restaurant 377,Mughlai,Lucknow,"83, Chowk",9829788183,Justdial
+Wahid Biryani 378,North Indian,Lucknow,"69, Hazratganj",9850958511,Justdial
+Bajpai Kachori 379,Street Food,Lucknow,"97, Indira Nagar",9836569185,Justdial
+Royal Cafe 380,Street Food,Lucknow,"56, Chowk",9869097943,Justdial
+Moti Mahal 381,Mughlai,Lucknow,"88, Hazratganj",9819717534,Justdial
+Aryan Restaurant 382,Street Food,Lucknow,"74, Aminabad",9866031273,Justdial
+Royal Cafe 383,Street Food,Lucknow,"5, Hazratganj",9811431348,Justdial
+Dastarkhan 384,Fast Food,Lucknow,"89, Aminabad",9829577980,Justdial
+Aryan Restaurant 385,South Indian,Lucknow,"7, Indira Nagar",9881408062,Justdial
+Moti Mahal 386,Street Food,Lucknow,"12, Indira Nagar",9851615598,Justdial
+Sharma Ji Ka Dhaba 387,Street Food,Lucknow,"53, Gomti Nagar",9879360058,Justdial
+Zaheer Ahmed Biryani 388,Mughlai,Lucknow,"37, Aminabad",9857812390,Justdial
+Chowdhary Lassi 389,Fast Food,Lucknow,"90, Aliganj",9816334907,Justdial
+Idris Biryani 390,Mughlai,Lucknow,"93, Chowk",9856666172,Justdial
+Bajpai Kachori 391,Street Food,Lucknow,"54, Indira Nagar",9846332372,Justdial
+Royal Cafe 392,Chinese,Lucknow,"24, Aliganj",9850586779,Justdial
+Zaheer Ahmed Biryani 393,Street Food,Lucknow,"53, Indira Nagar",9864574366,Justdial
+Wahid Biryani 394,South Indian,Lucknow,"57, Chowk",9899838688,Justdial
+Sharma Ji Ka Dhaba 395,Chinese,Lucknow,"46, Aminabad",9859793022,Justdial
+Aryan Restaurant 396,Chinese,Lucknow,"2, Aminabad",9813436639,Justdial
+Zaheer Ahmed Biryani 397,South Indian,Lucknow,"61, Chowk",9838454890,Justdial
+Sharma Ji Ka Dhaba 398,Mughlai,Lucknow,"79, Gomti Nagar",9881776084,Justdial
+Bajpai Kachori 399,Fast Food,Lucknow,"73, Indira Nagar",9834740084,Justdial
+Moti Mahal 400,North Indian,Lucknow,"26, Aliganj",9835154791,Justdial
+Idris Biryani 401,Fast Food,Lucknow,"6, Aminabad",9890122105,Justdial
+Aryan Restaurant 402,South Indian,Lucknow,"65, Aliganj",9898378530,Justdial
+Sharma Ji Ka Dhaba 403,Chinese,Lucknow,"80, Chowk",9811799495,Justdial
+Tunday Kababi 404,South Indian,Lucknow,"56, Indira Nagar",9835589591,Justdial
+Idris Biryani 405,South Indian,Lucknow,"98, Aminabad",9880496495,Justdial
+Peter Cafe 406,Chinese,Lucknow,"67, Aliganj",9850181844,Justdial
+Zaheer Ahmed Biryani 407,Chinese,Lucknow,"92, Aminabad",9836297188,Justdial
+Aryan Restaurant 408,Mughlai,Lucknow,"87, Gomti Nagar",9887824467,Justdial
+Moti Mahal 409,Chinese,Lucknow,"50, Indira Nagar",9898890086,Justdial
+Sharma Ji Ka Dhaba 410,Fast Food,Lucknow,"5, Hazratganj",9838748989,Justdial
+Moti Mahal 411,Mughlai,Lucknow,"43, Chowk",9850740467,Justdial
+Dastarkhan 412,Street Food,Lucknow,"75, Hazratganj",9844371673,Justdial
+Sharma Ji Ka Dhaba 413,Chinese,Lucknow,"83, Aliganj",9820319836,Justdial
+Sharma Ji Ka Dhaba 414,Street Food,Lucknow,"87, Hazratganj",9879551263,Justdial
+Aryan Restaurant 415,Fast Food,Lucknow,"70, Hazratganj",9897400819,Justdial
+Aryan Restaurant 416,North Indian,Lucknow,"62, Chowk",9816511874,Justdial
+Chowdhary Lassi 417,Fast Food,Lucknow,"51, Hazratganj",9859242426,Justdial
+Idris Biryani 418,Fast Food,Lucknow,"58, Chowk",9819701697,Justdial
+Royal Cafe 419,North Indian,Lucknow,"78, Indira Nagar",9830453976,Justdial
+Royal Cafe 420,Fast Food,Lucknow,"71, Gomti Nagar",9866996734,Justdial
+Wahid Biryani 421,Chinese,Lucknow,"30, Chowk",9815958445,Justdial
+Tunday Kababi 422,Chinese,Lucknow,"46, Aminabad",9889962748,Justdial
+Bajpai Kachori 423,Street Food,Lucknow,"78, Chowk",9836672794,Justdial
+Chowdhary Lassi 424,Street Food,Lucknow,"98, Aminabad",9831967807,Justdial
+Sharma Ji Ka Dhaba 425,Mughlai,Lucknow,"12, Aminabad",9889904251,Justdial
+Tunday Kababi 426,Street Food,Lucknow,"58, Aminabad",9813659553,Justdial
+Aryan Restaurant 427,Street Food,Lucknow,"26, Hazratganj",9866045315,Justdial
+Chowdhary Lassi 428,Street Food,Lucknow,"95, Hazratganj",9870066713,Justdial
+Moti Mahal 429,Mughlai,Lucknow,"72, Hazratganj",9885694962,Justdial
+Peter Cafe 430,Mughlai,Lucknow,"92, Hazratganj",9861228947,Justdial
+Bajpai Kachori 431,South Indian,Lucknow,"32, Aminabad",9867477842,Justdial
+Wahid Biryani 432,Mughlai,Lucknow,"63, Indira Nagar",9879602415,Justdial
+Aryan Restaurant 433,Fast Food,Lucknow,"58, Hazratganj",9855734764,Justdial
+Bajpai Kachori 434,Street Food,Lucknow,"13, Indira Nagar",9863494433,Justdial
+Moti Mahal 435,Street Food,Lucknow,"49, Aliganj",9812294627,Justdial
+Tunday Kababi 436,Street Food,Lucknow,"35, Gomti Nagar",9838643162,Justdial
+Royal Cafe 437,Fast Food,Lucknow,"14, Hazratganj",9851832331,Justdial
+Chowdhary Lassi 438,Chinese,Lucknow,"79, Indira Nagar",9842559095,Justdial
+Aryan Restaurant 439,South Indian,Lucknow,"63, Chowk",9861125110,Justdial
+Idris Biryani 440,Chinese,Lucknow,"22, Chowk",9874425722,Justdial
+Chowdhary Lassi 441,North Indian,Lucknow,"2, Chowk",9882473132,Justdial
+Sharma Ji Ka Dhaba 442,North Indian,Lucknow,"100, Chowk",9833498732,Justdial
+Moti Mahal 443,Chinese,Lucknow,"51, Hazratganj",9810172960,Justdial
+Wahid Biryani 444,Mughlai,Lucknow,"5, Gomti Nagar",9893690406,Justdial
+Wahid Biryani 445,Street Food,Lucknow,"73, Gomti Nagar",9832777161,Justdial
+Peter Cafe 446,Mughlai,Lucknow,"60, Aminabad",9894058941,Justdial
+Bajpai Kachori 447,Fast Food,Lucknow,"55, Gomti Nagar",9851067612,Justdial
+Idris Biryani 448,Chinese,Lucknow,"19, Aminabad",9846242375,Justdial
+Tunday Kababi 449,Mughlai,Lucknow,"52, Aminabad",9899510583,Justdial
+Bajpai Kachori 450,Chinese,Lucknow,"34, Aminabad",9888305468,Justdial
+Royal Cafe 451,Mughlai,Lucknow,"93, Gomti Nagar",9863077155,Justdial
+Idris Biryani 452,Chinese,Lucknow,"68, Indira Nagar",9814202431,Justdial
+Bajpai Kachori 453,Fast Food,Lucknow,"7, Aminabad",9899362764,Justdial
+Bajpai Kachori 454,Chinese,Lucknow,"35, Indira Nagar",9862980920,Justdial
+Sharma Ji Ka Dhaba 455,Street Food,Lucknow,"63, Gomti Nagar",9824440661,Justdial
+Tunday Kababi 456,Mughlai,Lucknow,"43, Gomti Nagar",9894660467,Justdial
+Bajpai Kachori 457,Chinese,Lucknow,"50, Indira Nagar",9861311387,Justdial
+Idris Biryani 458,Fast Food,Lucknow,"38, Aminabad",9862775720,Justdial
+Peter Cafe 459,Mughlai,Lucknow,"38, Chowk",9830289458,Justdial
+Idris Biryani 460,Chinese,Lucknow,"25, Chowk",9889308518,Justdial
+Tunday Kababi 461,Mughlai,Lucknow,"15, Chowk",9839917057,Justdial
+Idris Biryani 462,Street Food,Lucknow,"20, Chowk",9846232806,Justdial
+Dastarkhan 463,South Indian,Lucknow,"91, Hazratganj",9896309336,Justdial
+Sharma Ji Ka Dhaba 464,North Indian,Lucknow,"30, Aliganj",9848934714,Justdial
+Aryan Restaurant 465,Street Food,Lucknow,"48, Indira Nagar",9842047265,Justdial
+Royal Cafe 466,South Indian,Lucknow,"96, Gomti Nagar",9890981488,Justdial
+Bajpai Kachori 467,Mughlai,Lucknow,"35, Aminabad",9871519271,Justdial
+Idris Biryani 468,North Indian,Lucknow,"53, Chowk",9891182650,Justdial
+Dastarkhan 469,North Indian,Lucknow,"13, Hazratganj",9820452556,Justdial
+Tunday Kababi 470,North Indian,Lucknow,"10, Chowk",9825898554,Justdial
+Idris Biryani 471,Fast Food,Lucknow,"79, Aliganj",9883866974,Justdial
+Chowdhary Lassi 472,North Indian,Lucknow,"73, Aminabad",9894924095,Justdial
+Moti Mahal 473,Street Food,Lucknow,"25, Chowk",9840676612,Justdial
+Dastarkhan 474,Mughlai,Lucknow,"100, Aminabad",9860787483,Justdial
+Dastarkhan 475,Chinese,Lucknow,"16, Chowk",9836170579,Justdial
+Royal Cafe 476,Mughlai,Lucknow,"92, Aliganj",9817038107,Justdial
+Peter Cafe 477,Chinese,Lucknow,"25, Indira Nagar",9897100160,Justdial
+Sharma Ji Ka Dhaba 478,Fast Food,Lucknow,"45, Aliganj",9827519847,Justdial
+Idris Biryani 479,North Indian,Lucknow,"15, Gomti Nagar",9860497620,Justdial
+Sharma Ji Ka Dhaba 480,Mughlai,Lucknow,"36, Gomti Nagar",9819879333,Justdial
+Wahid Biryani 481,Chinese,Lucknow,"10, Gomti Nagar",9899224895,Justdial
+Zaheer Ahmed Biryani 482,South Indian,Lucknow,"80, Hazratganj",9859116601,Justdial
+Peter Cafe 483,South Indian,Lucknow,"13, Indira Nagar",9826390879,Justdial
+Sharma Ji Ka Dhaba 484,North Indian,Lucknow,"1, Chowk",9830049877,Justdial
+Wahid Biryani 485,North Indian,Lucknow,"66, Chowk",9851043542,Justdial
+Royal Cafe 486,Chinese,Lucknow,"8, Aminabad",9814296090,Justdial
+Moti Mahal 487,South Indian,Lucknow,"82, Chowk",9866471206,Justdial
+Zaheer Ahmed Biryani 488,Mughlai,Lucknow,"53, Indira Nagar",9897635394,Justdial
+Chowdhary Lassi 489,South Indian,Lucknow,"84, Indira Nagar",9890607350,Justdial
+Wahid Biryani 490,North Indian,Lucknow,"2, Gomti Nagar",9885329898,Justdial
+Zaheer Ahmed Biryani 491,Fast Food,Lucknow,"31, Gomti Nagar",9855829122,Justdial
+Wahid Biryani 492,South Indian,Lucknow,"1, Aliganj",9850038661,Justdial
+Dastarkhan 493,Fast Food,Lucknow,"8, Hazratganj",9860109040,Justdial
+Chowdhary Lassi 494,Fast Food,Lucknow,"86, Gomti Nagar",9843036316,Justdial
+Moti Mahal 495,Mughlai,Lucknow,"29, Indira Nagar",9892930436,Justdial
+Zaheer Ahmed Biryani 496,Chinese,Lucknow,"72, Gomti Nagar",9856510414,Justdial
+Tunday Kababi 497,Street Food,Lucknow,"31, Chowk",9897253390,Justdial
+Chowdhary Lassi 498,Mughlai,Lucknow,"69, Indira Nagar",9880561794,Justdial
+Dastarkhan 499,South Indian,Lucknow,"69, Aliganj",9893570248,Justdial
+Royal Cafe 500,Street Food,Lucknow,"79, Aliganj",9822536835,Justdial
